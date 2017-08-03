@@ -1,6 +1,6 @@
-package src.test;
+package test;
 
-import src.test.FruitColor.Color;
+import test.FruitColor.Color;
 
 public class Apple {
 

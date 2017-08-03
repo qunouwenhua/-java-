@@ -1,4 +1,4 @@
-package src.mvcTest;
+package snake;
 
 public class GreedSnake {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.mvcTest;
+package snake;
 
 import java.awt.BorderLayout;
 import java.awt.Canvas;

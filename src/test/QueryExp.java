@@ -1,4 +1,4 @@
-package src.test;
+package test;
 
 import net.sf.json.JSONObject;
 

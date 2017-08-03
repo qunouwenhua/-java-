@@ -1,4 +1,4 @@
-package src.mvcTest;
+package snake;
 
 import java.util.Arrays;
 import java.util.LinkedList;
